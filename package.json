@@ -1,0 +1,27 @@
+{
+  "name": "hubot-pubu",
+  "version": "0.0.1",
+  "description": "This is a Hubot adapter to use with PUBU.im",
+  "main": "pubu.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangsm/hubot-pubu.git"
+  },
+  "dependencies": {
+    "parent-require": "^1.0.0",
+    "coffee-script": ">=1.7.0",
+    "hubot": "^2.19.0"
+  },
+  "keywords": [
+    "pubu"
+  ],
+  "author": "mike <shuimu625@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangsm/hubot-pubu/issues"
+  },
+  "homepage": "https://github.com/zhangsm/hubot-pubu#readme"
+}
